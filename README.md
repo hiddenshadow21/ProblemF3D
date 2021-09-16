@@ -1,7 +1,6 @@
 # ProblemF3D
 My solution to Problem F with 3D virtualization in WPF for ACM Central European Programming Contest, Warsaw 2001, Poland<br/>
-I've modified the problem adding different shapes of cisterns. That's why i had to change the input so the first letter corresponds to a specific cistern and next values describes it's size.<br/>
-To iterate between
+I've modified the problem adding different shapes of cisterns. That's why i had to change the input so the first letter corresponds to a specific cistern and next values describes it's size.
 # The problem
 Problem F
 Fill the cisterns!
